@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Ramyy | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ahmedsamir64476@gmail.com)
-[<img align="left" alt="Ramyy | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/Raamyy)
+[<img align="left" alt="Ramyy | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ahmed-samir-730692184/)
 </br>
 
 
