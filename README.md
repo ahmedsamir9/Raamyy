@@ -12,21 +12,18 @@
 
 [<img align="left" alt="Ramyy | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ramyeg26@gmail.com)
 [<img align="left" alt="Ramyy | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/Raamyy)
-[<img align="left" alt="Raamyy | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/8142985/raamyy)
-[<img align="left" alt="Raamyy | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />](https://www.behance.net/Ramy2612)
-
 </br>
 
 
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]()
+
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
+
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/firebase/firebase.png" />]()
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
@@ -40,9 +37,9 @@
 <br />
 <br />
 
-[![Raamyy's github stats](https://github-readme-stats.vercel.app/api?username=Raamyy&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Raamyy?tab=repositories)
+[![AhmedSamir's github stats](https://github-readme-stats.vercel.app/api?username=ahmedsamir9&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ahmedsamir9?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raamyy&layout=compact&theme=radical)](https://github.com/Raamyy?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamir9&layout=compact&theme=radical)](https://github.com/ahmedsamir9?tab=repositories)
 
 <!--
 **Raamyy/Raamyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
