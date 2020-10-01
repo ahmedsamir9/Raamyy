@@ -3,12 +3,12 @@
 ## A passionate Egyptian junior software engineer that loves contributing and creating open source projects.
 - 🎓  2021 graduate from Information Systems department at Ain Shams University.
 - 👀  Looking for software engineer job.
-- 📚  Learning more about Android and Backend.
+- 📚  Learning more about Android.
 - 📌  Lives in Giza, Egypt.
 
 ### Connect with me:
 
-[<img align="left" alt="Ramyy | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ramyeg26@gmail.com)
+[<img align="left" alt="Ramyy | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ahmedsamir64476@gmail.com)
 [<img align="left" alt="Ramyy | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/Raamyy)
 </br>
 
