@@ -1,12 +1,10 @@
-### Hey there, I'm [Raamyy](https://www.github.com/Raamyy)! 👋
+### Hey there, I'm [Ahmed Samir](https://www.github.com/Raamyy)! 👋
 
 ## A passionate Egyptian junior software engineer that loves contributing and creating open source projects.
-- 🎓  2020 graduate from Software Engineering department at Ain Shams University.
+- 🎓  2021 graduate from Information Systems department at Ain Shams University.
 - 👀  Looking for software engineer job.
-- 📚  Learning more about javascript and python.
-- 👯  Looking to collaborate on more open source projects.
-- 📸  Also a video editor and a graphic designer.
-- 📌  Lives in Cairo, Egypt.
+- 📚  Learning more about Android and Backend.
+- 📌  Lives in Giza, Egypt.
 
 ### Connect with me:
 
